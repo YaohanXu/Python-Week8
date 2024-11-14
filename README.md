@@ -1,4 +1,9 @@
+<img src="banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
+
 # <br>Analyzing and Visualizing Large Datasets
+
+- [Lecture 1](https://github.com/musa-550-fall-2024/visualizingLargeDatasets/blob/main/Visualizing%20Large%20Data-Lec1.ipynb)
+- [Lecture 2](https://github.com/musa-550-fall-2024/visualizingLargeDatasets/blob/main/Visualizing%20Large%20Data-Lec2.ipynb)
 
 
 
