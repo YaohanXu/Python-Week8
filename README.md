@@ -13,7 +13,6 @@
 
 ## New Packages
 
-- [intake](https://intake.readthedocs.io)
 - [dask](http://docs.dask.org/en/latest/)
 - [datashader](http://datashader.org/index.html)
 - [colorcet](https://colorcet.holoviz.org/)
